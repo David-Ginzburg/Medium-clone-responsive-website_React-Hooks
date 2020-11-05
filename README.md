@@ -1,8 +1,8 @@
 How to run:
 
-git clone
-yarn (install packages)
-yarn start
+1. git clone
+2. yarn (install packages)
+3. yarn start
 
 Deployed project: https://mediumclone1.netlify.app/
 
